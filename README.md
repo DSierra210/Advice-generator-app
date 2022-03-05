@@ -13,3 +13,8 @@ You should be able to:
 - View the optimal layout for the app depending on their device's screen size
 - See hover states for all interactive elements on the page
 - Generate a new piece of advice by clicking the dice icon
+
+### Links
+
+- Solution URL: [Solution](https://www.frontendmentor.io/solutions/advice-generator-app-UCR8vOgRb)
+- Live Site URL: [Advice Generator app](https://dsierra210.github.io/Advice-generator-app/)
